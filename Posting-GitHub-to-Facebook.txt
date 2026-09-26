@@ -1,0 +1,6 @@
+3-is-magic/
+├── Water.lean              <- rename Water(1).lean → Water.lean (tight: rotate120 real, not rfl)
+├── README.md               <- our new WATER_README.md (tight proofs, 8-8-8 = 24 = 1440)
+├── Watercloses.jpg          <- WATER CLOSES - Order from Chaos poster
+├── Water-888-1440.jpg       <- 8-8-8 WORK/REST/PLAY = 24 = 1440 poster (rename image_20260926...)
+└── Duck_AI_waterlean.jpeg   <- keep as history/witness: old rfl version
